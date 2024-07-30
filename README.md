@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 - 🔭 I’m currently working on becoming a Software Engineer
 - 📫 How to reach me: chaukethabo16@gmail.com
 
@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
