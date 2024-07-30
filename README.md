@@ -1,7 +1,6 @@
 # 💫 About Me:
-<br>
-- 🔭 I’m currently working on becoming a Software Engineer
-- 📫 How to reach me: chaukethabo16@gmail.com
+<br>- 🔭 I’m currently working on becoming a Software Engineer
+<br>- 📫 How to reach me: chaukethabo16@gmail.com
 
 
 # 💻 Tech Stack:
