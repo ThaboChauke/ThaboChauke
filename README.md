@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 <br>- 🔭 I’m currently working on becoming a Software Engineer
 <br>- 📫 How to reach me: chaukethabo16@gmail.com
 
@@ -20,10 +20,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ThaboChauke&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThaboChauke&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ThaboChauke&icon=9&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- # 💫 About Me:
+# 💫 About Me:
 - 🔭 I’m currently working on becoming a Software Engineer
 - 📫 How to reach me: chaukethabo16@gmail.com
 
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
